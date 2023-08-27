@@ -21,3 +21,7 @@ body {
   background: #444;
   color: #fff;
 }
+
+* {
+  box-sizing: border-box;
+}
